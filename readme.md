@@ -7,10 +7,10 @@
 
 
 <h3>🛠️ Tech Stack 🛠️</h3>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  
 
 
