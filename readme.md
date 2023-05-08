@@ -31,6 +31,14 @@
 >
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
 
+
+[![eunyoung23's github stats](https://github-readme-stats.vercel.app/api?username=eunyoung23)](https://github.com/eunyoung23/github-readme-stats)
+
+
+
+
+
+
 <br></br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eun233)](https://solved.ac/eun233)
