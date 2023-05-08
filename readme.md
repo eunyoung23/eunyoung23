@@ -33,8 +33,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white">
 
 
-[![eunyoung23's github stats](https://github-readme-stats.vercel.app/api?username=eunyoung23)](https://github.com/eunyoung23/github-readme-stats)
-
+![eunyoung23's github stats](https://github-readme-stats.vercel.app/api?username=eunyoung23&show_icons=true)
 
 <br></br>
 [![Solved.ac
